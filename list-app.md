@@ -1,20 +1,20 @@
 # list software 
 
-- brave
-- zotero
+- brave ✅
+- zotero 
 - android studio
 - phpstorm
 - obsidian
-- obs studio
-- vscode
-- discord
-- steam
+- obs studio ✅
+- vscode ✅
+- discord ✅
+- steam ✅
 - postman
-- vlc
+- vlc ✅
 - zoom
 
 - git (login git)
-- nodejs
-- php
+- nodejs 
+- php ✅
 - go
 - 
